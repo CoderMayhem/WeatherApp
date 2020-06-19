@@ -1,0 +1,28 @@
+{
+  "name": "clima-flutter",
+  "version": "1.0.1",
+  "description": "Weather details app",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoderMayhem/WeatherApp.git"
+  },
+  "keywords": [
+    "Get",
+    "me",
+    "the",
+    "weather!"
+  ],
+  "author": "Naman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CoderMayhem/WeatherApp/issues"
+  },
+  "homepage": "https://github.com/CoderMayhem/WeatherApp#readme"
+}
